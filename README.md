@@ -6,7 +6,8 @@ This module to generate encryption for message based on the following:
 - Encode binary based on summation of surrounding two bits
 - Convert encoded to binary for each bit 
 - Convert last encoded to hexadecimal, which will be the returned Value
-** Problem designed by: ** Eng. Hossam Aly
+
+**Problem designed by:** [Eng. Hossam Aly](https://github.com/hosamaly)
 
 # Prerequisites
 `pip3 install num2words`
