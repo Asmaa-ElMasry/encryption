@@ -1,0 +1,15 @@
+x Call convert_number_to_word function
+x Test return value from convert_number_to_word
+x Call caesar_shift_message function
+x Test return value from caesar_shift_message
+x Call equivalent_binary function
+x Test return value from equivalent_binary
+x Call encode_binary function
+x Test return value from encode_binary
+x Call convert_encode_to_bin function
+x Test return value from convert_encode_to_bin
+x Call convert_to_hex function
+x Test return value from convert_to_hex
+x Call encrypt_message function
+- Test encrypt_message with single input
+- Test encrypt_message with multi input
